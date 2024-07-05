@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 module.exports = {
-  name: 'codegpt',
+  name: 'codeai',
   description: 'Get detailed programming answers from CodeGPT.',
   usage: '[ 🔍 𝗨𝘀𝗮𝗴𝗲 🔍 ]\n\n🔹 Example: [ 🔍 {prefix}codegpt ask Node.js ]',
   nashPrefix: false,
